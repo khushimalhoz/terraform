@@ -7,5 +7,5 @@ vpc_enable_dns_hostnames = false
 vpc_tags = {
     Name = "dev-vpc"
     Enviroment = "dev"
-    Owner = "harshit"
+    Owner = "khushi"
 }
